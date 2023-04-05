@@ -11,5 +11,19 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        /**
+         * IntroFragment 실행
+         */
+
+        /**
+         * 도입 후 로그인 페이지 구동
+         */
+
+        /**
+         *
+         */
+
+
+
     }
 }
